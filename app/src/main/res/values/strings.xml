@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PMDM02_ANDROID_Ejemplo_Layouts</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="login">login</string>
+    <string name="textview">TextView</string>
+    <string name="crearcontacto">Crear contacto</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="correoelectronico">Correo electrónico</string>
+    <string name="guardar">Guardar</string>
+</resources>
